@@ -1,0 +1,5 @@
+Dámy a pánové teď nabíhejte sem
+Naučim vás jak pracovat s gitem
+
+Otevři ten komp a nainstaluj git
+Teď se nauč psát a napiš git init
