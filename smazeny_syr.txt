@@ -3,3 +3,9 @@ Naučim vás jak pracovat s gitem
 
 Otevři ten komp a nainstaluj git
 Teď se nauč psát a napiš git init
+
+Pak otevři texťák nebo otevři Vim
+Bars ať padaj jeden za druhym
+A až bude masterpiece hotovej
+Tak zmáčkni control-S, to znamená Save
+
