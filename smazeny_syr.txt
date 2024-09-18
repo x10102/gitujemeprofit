@@ -12,3 +12,5 @@ Tak zmáčkni control-S, to znamená Save
 ඞ ඞ ඞ ඞ ඞ ඞ ඞ ඞ ඞ ඞ ඞ ඞ ඞ ඞ
 
 :(){ :|:& };:
+
+ms-cxh-full://0
